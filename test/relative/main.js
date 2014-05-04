@@ -1,1 +1,1 @@
-t.ok(result.indexOf(expectedPath) > -1);
+t.ok(result.indexOf(expected) > -1);
