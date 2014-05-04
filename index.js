@@ -118,4 +118,3 @@ function closeOver (globals, src) {
         + src + '\n}).call(this,' + values.join(',') + ')'
     ;
 }
-
